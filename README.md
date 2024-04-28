@@ -37,7 +37,7 @@ This project is licensed under the MIT License.
 ## Contact
 
 * **Developed by:** Otmane El Haddaji
-* **Email:** elhaddajiotmane@gmail.com / otmane@webnexa.ent
+* **Email:** elhaddajiotmane@gmail.com / otmane@webnexa.net
 * **GitHub:** elhaddajiotmane
 * **Client:** Webnexa
 
