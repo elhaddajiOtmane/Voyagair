@@ -41,6 +41,7 @@ class QIBusAddPassengerState extends State<QIBusAddPassenger> {
                 isDense: true,
                 hintText: subLabel,
                 border: InputBorder.none,
+                prefixText: '+212 ',
               ),
             ),
           )
