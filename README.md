@@ -5,7 +5,7 @@
 
 ## About Voyagair
 
-Voyagair, developed for Webnexa by Otmane El Haddaji, is an innovative Android application designed to enhance the bus travel experience. It provides users with real-time information about bus schedules, routes, and stations, making their journeys smoother and more efficient.
+Voyagair, developed for Webnexa by Otmane elhaddaji, is an innovative Android application designed to enhance the bus travel experience. It provides users with real-time information about bus schedules, routes, and stations, making their journeys smoother and more efficient.
 
 ## Features
 
